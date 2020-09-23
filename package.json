@@ -1,0 +1,15 @@
+{
+  "name": "beamzone",
+  "version": "1.0.0",
+  "description": "beamzone project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "beamzone"
+  },
+  "author": "chuckdeela, godwind11, beamzone",
+  "license": "ISC"
+}
